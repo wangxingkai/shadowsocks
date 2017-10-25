@@ -1,1 +1,1 @@
-web: ssserver -c ./config.json
+web: ssserver -c ./config.json -p $PORT
