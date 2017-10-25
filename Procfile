@@ -1,1 +1,1 @@
-web: ssserver -p 443 -k xingkaiwang -m aes-256-cfb
+web: ssserver -c ./config.json
