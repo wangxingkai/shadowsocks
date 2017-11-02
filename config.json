@@ -5,7 +5,7 @@
     "local_port":1080,
     "password":"xingkaiwang",
     "timeout":600,
-    "method":"aes-256-cfb",
+    "method":"chacha20-ietf-poly1305",
     "fast_open":false,
     "tunnel_remote":"8.8.8.8",
     "dns_server":["8.8.8.8", "8.8.4.4"],
